@@ -1,12 +1,8 @@
-@viewport {
-    width: device-width ;
-    zoom: 1.0 
-} 
-
 body{
     color: #333333;
+    background: gold;
     font-family: Arial;
-    max-width: 650px;
+    max-width: 350px;
     margin: 0 auto;
     padding: 0 16px;
 
