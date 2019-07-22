@@ -1,3 +1,8 @@
+@viewport {
+    width: device-width ;
+    zoom: 1.0 
+} 
+
 body{
     color: #333333;
     font-family: Arial;
@@ -53,4 +58,8 @@ button{
     color: white;
     padding: 8px
 
+}
+
+p{
+    white-space: pre-line
 }
